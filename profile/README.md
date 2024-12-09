@@ -3,6 +3,11 @@ Welcome to the **Better Call Drone!** organization. This organization contains t
 
 At a high level, the project consists in developing drones, which are deployed in networks, and client-server applications that use the drone network to communicate. All components of the project will be developed in Rust.
 
+## BUY OUR DRONE
+If you want to buy our drone, please, fill out this form:<br><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc-pcuRgZxYI92ThIB2MuTiPJZy0rUbT0sxWXCcuLAs66_ozA/viewform" target="_blank"><img alt="wgl" src="https://img.shields.io/badge/FORM-label?style=flat-square&color=%23F7A210" height="30px"><a>
+
+
 ## `> whoami`
 We are all second-year students of the Bachelor's Degree in **ICE (Computer, Communication, and Electronic Engineering)**:
 - **Mukund Gupta** <br>
