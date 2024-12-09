@@ -3,11 +3,6 @@ Welcome to the **Better Call Drone!** organization. This organization contains t
 
 At a high level, the project consists in developing drones, which are deployed in networks, and client-server applications that use the drone network to communicate. All components of the project will be developed in Rust.
 
-## BUY OUR DRONE
-If you want to buy our drone, please, fill out this form:<br><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc-pcuRgZxYI92ThIB2MuTiPJZy0rUbT0sxWXCcuLAs66_ozA/viewform" target="_blank"><img alt="wgl" src="https://img.shields.io/badge/FORM-label?style=flat-square&color=%23F7A210" height="30px"><a>
-
-
 ## `> whoami`
 We are all second-year students of the Bachelor's Degree in **ICE (Computer, Communication, and Electronic Engineering)**:
 - **Mukund Gupta** <br>
@@ -27,9 +22,6 @@ We are all second-year students of the Bachelor's Degree in **ICE (Computer, Com
   <a href="https://github.com/niftyduck" target="_blank" style="color:white"><img alt="git" src="https://img.shields.io/badge/niftyduck-label?style=flat-square&logo=github&logoColor=white&labelColor=%232C2C32&color=%23FBEBD4"></a>
   <a href="mailto:tommaso.parlato@studenti.unitn.it" target="_blank" style="color:white"><img alt="gmail" src="https://img.shields.io/badge/unitn-label?style=flat-square&logo=gmail&logoColor=white&labelColor=%232C2C32&color=%23FBEBD4"></a>
 
-## Coming Soon...
-The DCP Specification has been released so
-
 <img src="https://i.gifer.com/BRsk.gif" width="50%" height="50%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img>
 
 ## `> cargo test` | `09/12/2024 09:30`
@@ -44,3 +36,8 @@ test test_generic_chain_fragment_drop ... ok
 
 test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
 ```
+
+## Thanks for choosing us ❤️
+- Bobry w locie
+- Rustable
+- C++ enjoyers
