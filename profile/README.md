@@ -24,19 +24,6 @@ We are all second-year students of the Bachelor's Degree in **ICE (Computer, Com
 
 <img src="https://i.gifer.com/BRsk.gif" width="50%" height="50%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></img>
 
-## `> cargo test` | `09/12/2024 09:30`
-```bash
-Running tests\integration.rs
-
-running 4 tests
-test test_generic_fragment_drop ... ok
-test test_generic_fragment_forward ... ok
-test test_generic_chain_fragment_ack ... ok
-test test_generic_chain_fragment_drop ... ok
-
-test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
-```
-
 ## Thanks for choosing us ❤️
 - Bobry w locie
 - Rustable
